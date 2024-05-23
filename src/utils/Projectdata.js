@@ -1,4 +1,5 @@
 import webscreen from '../images/Screenshot 2024-03-09 175903.png'
+import codeEditor from '../images/Screenshot 2024-05-23 163252.png'
 export const  project_data = [
     {
        img_url :"https://alladdinx.com/assets/featureimg_3.png",
@@ -8,11 +9,18 @@ export const  project_data = [
     },
 
     {
-        img_url :webscreen,
-        title:"Web Screen Recorder",
-        description:"The Web Screen Recorder Is Recording  Screen And Camera Recording Than You Download", 
-        redirect_url:"https://screen-recorder-wheat.vercel.app/"
-     }
+        img_url :codeEditor,
+        title:"Web Code Editor",
+        description:"Web Code Editor is an online community and platform for front-end developers to showcase, share, and experiment with HTML, CSS, and JavaScript code snippets, known as pens. It allows developers to create and test code directly in the browser, facilitating instant feedback and collaboration. The platform also serves as a valuable resource for learning and inspiration, featuring a vast collection of user-generated content and educational resources.", 
+        redirect_url:"https://codeeditor-kappa.vercel.app/"
+     },
+
+     {
+      img_url :webscreen,
+      title:"Web Screen Recorder",
+      description:"The Web Screen Recorder Is Recording  Screen And Camera Recording Than You Download", 
+      redirect_url:"https://screen-recorder-wheat.vercel.app/"
+   }
 
 
 ]
