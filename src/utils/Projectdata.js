@@ -8,13 +8,7 @@ export const  project_data = [
        redirect_url:"https://alladdinx.com/"
     },
 
-    {
-        img_url :codeEditor,
-        title:"Web Code Editor",
-        description:"Web Code Editor is an online community and platform for front-end developers to showcase, share, and experiment with HTML, CSS, and JavaScript code snippets, known as pens. It allows developers to create and test code directly in the browser, facilitating instant feedback and collaboration. The platform also serves as a valuable resource for learning and inspiration, featuring a vast collection of user-generated content and educational resources.", 
-        redirect_url:"https://codeeditor-kappa.vercel.app/"
-     },
-
+    
      {
       img_url :webscreen,
       title:"Web Screen Recorder",
